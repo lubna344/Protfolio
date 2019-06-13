@@ -1,0 +1,288 @@
+body{
+    
+    background-color: #9E6D5A;
+}
+
+
+.carousel-caption
+{
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5) ;
+    
+}
+
+
+.carousel-caption h2 {
+    font-size: 350%;
+    text-align: center;
+    font-family: 'Merienda', cursive;
+    margin-top: 30%;
+}
+
+.carousel-caption h2:hover {
+    color: #9E6D5A;
+    
+}
+
+.carousel-caption p:hover {
+    color: #9F675F;
+    
+}
+
+.carousel-caption p {
+    
+    font-size: 200%;
+    text-align: center;
+    font-family: 'Merienda', cursive;
+/*    margin-top: 20%;*/
+}
+
+/*
+.container{
+    
+    margin-top: 60px;
+    overflow: hidden;
+}
+*/
+
+.test{
+    
+    padding-left: 10px;
+    margin-top: 15%;
+    overflow: hidden;
+    
+
+}
+
+.test .bord{
+    
+    border-top: solid 3px #2A4037;
+    border-left: solid 3px #2A4037;
+    float: left;
+    padding-top: 20px;
+    width: 20%;
+    height: 35%;
+    text-align: center;
+/*    font-family: 'Inconsolata', monospace;*/
+    font-family: 'Merienda', cursive;
+    
+}
+
+.bord p {
+    
+   font-size: 110%; 
+}
+
+
+.ten{
+    
+    padding-left: 10px;
+    margin-top: 30px;
+    overflow: hidden;
+    
+
+}
+
+.ten .cation{
+    
+    border-top: solid 3px #2A4037;
+    border-left: solid 3px #2A4037;
+    float: left;
+    padding-top: 25px;
+    width: 30%;
+    height: 30%;
+    text-align: center;
+/*    font-family: 'Inconsolata', monospace;*/
+    font-family: 'Merienda', cursive;
+    
+}
+
+.cation p{
+    
+    font-size: 110%;
+}
+
+
+.twlev{
+    
+
+    margin-top: 30px;
+    padding-left: 8px;
+    overflow: hidden;
+    
+
+}
+
+.twlev .qual{
+    
+    border-top: solid 3px #2A4037;
+    border-left: solid 3px #2A4037;
+    float: left;
+    padding-top: 25px;
+    width: 40%;
+    height: 42%;
+    text-align: center;
+/*    font-family: 'Inconsolata', monospace;*/
+    font-family: 'Merienda', cursive;
+    
+}
+
+.qual p{
+    
+    font-size: 110%;
+}
+
+.hund{
+    
+    padding-left: 10px;
+    margin-top: 30px;
+    overflow: hidden;
+    
+
+}
+
+.hund .lang{
+    
+    border-top: solid 3px #2A4037;
+    border-left: solid 3px #2A4037;
+    float: left;
+    padding-top: 10px;
+    width: 60%;
+    height: 50%;
+    text-align: center;
+/*    font-family: 'Inconsolata', monospace;*/
+    font-family: 'Merienda', cursive;
+    
+}
+
+.lang p{
+    
+    font-size: 110%;
+}
+
+.edu{
+
+    margin-top: 30px;
+    padding-left: 10px;
+    overflow: hidden;
+}
+
+.edu .int{
+    
+    font-family: 'Merienda', cursive;
+    border-left: solid 3px #2A4037;
+    border-top: solid 3px #2A4037;
+    float: left;
+    text-align: center;
+    padding-left: 15px;
+    padding-top: 30px;
+    width: 60%;
+    height: 30%;
+    
+}
+
+.int p{
+    
+    font-size: 110%;
+}
+
+.clr{
+    
+    clear: both;
+}
+
+
+
+.span6{
+    
+    margin-top: 15%;
+    padding-left: 50px;
+    overflow: hidden;
+
+}
+
+.form-inline{
+    
+    float: right;
+    margin-right: 60px;
+}
+/*
+.span6 h2{
+    
+    font-family: 'Merienda', cursive;
+    float: left;
+    padding-right: 25px;
+    width: 15%
+    
+}
+*/
+
+.formgroup{
+    
+    padding: 20px 10px;
+    box-sizing: border-box;
+}
+
+.form-control{
+    
+    
+    margin-left: 20px;
+}
+
+.bbt{
+    
+
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    overflow: hidden;
+
+    
+}
+
+.message{
+    
+    float: right;
+    margin-right: 52px;
+    border-radius: 4px;
+    width: 45%;
+    height: 35%;
+}
+
+.send{
+    
+    overflow: hidden;
+}
+
+.send .button{
+    
+    float:right;
+    margin-right: 8%;
+    margin-top: 8px;
+    width: 70px;
+    height: 40px;
+}
+.button {
+    
+    background-color: #2A4037;
+    border-color: #2A4037;
+    font-weight: 500;
+    border-radius: 5px;
+    
+}
+
+.clr{
+    
+    clear: both;
+}
+
+.dropcontact{
+    
+    margin-bottom: 40px;
+    margin-left: 60%;
+    
+}
